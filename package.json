@@ -1,7 +1,7 @@
 {
   "name": "nluka-http-response-status-codes",
   "description": "A tiny package containing all HTTP response status codes from https://developer.mozilla.org/en-US/docs/Web/HTTP/Status.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc"
