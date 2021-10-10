@@ -1,0 +1,31 @@
+{
+  "name": "nluka-http-response-status-codes",
+  "description": "A tiny package containing all HTTP response status codes from https://developer.mozilla.org/en-US/docs/Web/HTTP/Status.",
+  "version": "1.0.1",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nluka/http-response-status-codes.git"
+  },
+  "keywords": [
+    "http",
+    "response",
+    "status",
+    "codes"
+  ],
+  "author": "Nicholas Lukasevich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nluka/http-response-status-codes/issues"
+  },
+  "homepage": "https://github.com/nluka/http-response-status-codes#readme",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  },
+  "files": [
+    "dist/**/*"
+  ]
+}
